@@ -76,7 +76,7 @@ The following models were trained using pipelines:
 
 ---
 
-## How to Run
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
+## Author
+Madari Vijay Kumar
+Email: madarivijaykumar3@gmail.com
+LinkedIn: https://www.linkedin.com/in/vijay-kumar-madari-596505314/
